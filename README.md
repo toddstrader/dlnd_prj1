@@ -1,1 +1,2 @@
-# dlnd_prj1
+# Project 1
+Your First Neural Network
